@@ -1,0 +1,12 @@
+{
+  "name": "bsonvsjson",
+  "version": "0.0.1",
+  "description": "A test for benchmarking bson vs json",
+  "dependencies": {
+    "ltx": "0.2.2",
+    "xml2js": "0.2.6",
+    "bson":"0.1.8",
+    "buffalo":"0.1.3"
+  },
+  "engine": "node"
+}

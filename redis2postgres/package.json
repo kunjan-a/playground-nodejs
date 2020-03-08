@@ -1,0 +1,15 @@
+{
+    "name": "redis2pg",
+    "version": "0.0.1",
+    "bin": {
+        "redis2pg.js": "./main.js"
+    },
+    "description": "A server that copies redis data to postgre",
+    "dependencies": {
+        "log4js": "0.4.1",
+        "redis": "0.7.3",
+        "pg": "0.7.x"
+
+    },
+    "engine": "node"
+}

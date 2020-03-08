@@ -1,0 +1,3 @@
+[submodule "submodules/lookupService"]
+	path = submodules/lookupService
+	url = git@github.com:domain/domain_lsclient_js.git

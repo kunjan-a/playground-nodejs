@@ -1,0 +1,25 @@
+{
+    "name": "addTT2Groups",
+    "version": "0.0.1",
+    "bin": {
+        "contactUpload.js": "./main_addTT2Groups.js"
+    },
+    "description": "A server that adds TT account to all groups",
+    "dependencies": {
+      "node-expat": "1.6.1",
+      "ltx": "0.2.2",
+      "emailjs": "0.3.2",
+      "tav": "0.1.0",
+      "log4js": "0.4.1",
+      "node-uuid": ">=0.0.0",
+      "bufferjs": "1.1.0",
+      "node-web-request":"0.0.1",
+      "underscore":"1.4.2",
+      "node-static":">=0.6.9"
+    },
+    "homepage": "git@github.com:kunjan-a/",
+    "maintainers": [{
+            "name": "Kunjan Aggarwal",
+    }],
+    "engine": "node"
+}
