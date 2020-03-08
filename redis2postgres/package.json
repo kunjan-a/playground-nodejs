@@ -8,7 +8,7 @@
     "dependencies": {
         "log4js": "0.4.1",
         "redis": "0.7.3",
-        "pg": "0.7.x"
+        "pg": "7.18.x"
 
     },
     "engine": "node"
